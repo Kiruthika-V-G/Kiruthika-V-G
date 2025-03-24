@@ -4,7 +4,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="coding" width="300">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiruthika-v-g&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthika-v-g" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
