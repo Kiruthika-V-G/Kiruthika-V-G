@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kiruthika!</h1>
 <h3 align="center">I'm a Theoretical Computer Science student passionate about MERN stack development, exploring cryptography, and AI workflow automation with ComfyUI.</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="coding" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="coding" width="250" style="border-radius:10px;">
 
 
 - 🌱 I’m currently learning **MERN Stack**
